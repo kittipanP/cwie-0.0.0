@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_studentSet" value="name:s_id;datatype:int,name:s_fname;datatype:string,name:s_lname;datatype:string,name:thai_fname;datatype:string,name:thai_lname;datatype:string,name:s_dob;datatype:date,name:remark;datatype:blob,name:origin_id;datatype:int,name:type_id;datatype:int,name:status_id;datatype:int,name:ref_id;datatype:int,name:national_id;datatype:int,name:title_title_id;datatype:int" />
+</info>
