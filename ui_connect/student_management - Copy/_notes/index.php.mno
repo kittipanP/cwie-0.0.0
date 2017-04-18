@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_instituteSet" value="name:intitute_id;datatype:int,name:intitute_name;datatype:string" />
+</info>

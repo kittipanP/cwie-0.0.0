@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_CountrySet" value="name:country_id;datatype:int,name:country_name;datatype:string" />
+	<infoitem key="UD_countrySet" value="name:country_id;datatype:int,name:country_name;datatype:string" />
+	<infoitem key="UD_studentInfo" value="name:s_id;datatype:int,name:s_fname;datatype:string,name:s_lname;datatype:string,name:thai_fname;datatype:string,name:thai_lname;datatype:string,name:s_dob;datatype:date,name:remark;datatype:blob,name:origin_id;datatype:int,name:type_id;datatype:int,name:status_id;datatype:int,name:ref_id;datatype:int,name:national_id;datatype:int,name:title_title_id;datatype:int,name:intitute_type_id;datatype:int" />
+	<infoitem key="UD_titleSet" value="name:title_id;datatype:int,name:title_name;datatype:string,name:sex;datatype:string" />
+	<infoitem key="UD_degreeSet" value="name:degree_id;datatype:int,name:degree_name;datatype:string" />
+	<infoitem key="UD_majorSet" value="name:major_id;datatype:int,name:major_name;datatype:string" />
+	<infoitem key="UD_resumeSet" value="name:resume_name;datatype:string" />
+	<infoitem key="UD_studentSet" value="name:s_id;datatype:int,name:s_fname;datatype:string,name:s_lname;datatype:string,name:thai_fname;datatype:string,name:thai_lname;datatype:string,name:s_dob;datatype:date,name:remark;datatype:blob,name:origin_id;datatype:int,name:type_id;datatype:int,name:status_id;datatype:int,name:ref_id;datatype:int,name:national_id;datatype:int,name:title_title_id;datatype:int" />
+	<infoitem key="UD_RecordsetStudentInfo" value="name:application_id;datatype:int,name:s_id;datatype:int,name:application_name;datatype:string,name:application_dateS;datatype:date,name:application_dateE;datatype:date" />
+	<infoitem key="UD_statusSet" value="name:status_id;datatype:int,name:status_desc;datatype:string" />
+	<infoitem key="UD_universitySet" value="name:uni_id;datatype:int,name:uni_name;datatype:string,name:country_id;datatype:int,name:intitute_id;datatype:int" />
+	<infoitem key="UD_educationSet" value="name:education_id;datatype:int,name:education_name;datatype:string,name:intitute_id;datatype:int,name:major_id;datatype:int,name:degree_id;datatype:int,name:s_id;datatype:int,name:uni_id;datatype:int,name:collage_id;datatype:int" />
+	<infoitem key="UD_collageSet" value="name:collage_id;datatype:int,name:collage_name;datatype:string,name:country_id;datatype:int,name:idintitute_type_id;datatype:int" />
+	<infoitem key="UD_instituteSet" value="name:intitute_id;datatype:int,name:intitute_name;datatype:string" />
+	<infoitem key="UD_stu_contactSet" value="name:contact_id;datatype:int,name:s_id;datatype:int,name:contact_no;datatype:string,name:email_adress;datatype:string" />
+	<infoitem key="UD_secSet" value="name:emc_id;datatype:int,name:emc_fname;datatype:string,name:emc_lname;datatype:string,name:emc_relation;datatype:string,name:emc_contact;datatype:string,name:contact_id;datatype:int" />
+	<infoitem key="UD_stu_addressSet" value="name:address_Id;datatype:int,name:s_id;datatype:int,name:place_name;datatype:string,name:road_name;datatype:string,name:sub_district;datatype:string,name:district;datatype:string,name:city;datatype:string,name:zip_code;datatype:int,name:province_name;datatype:string,name:country_id;datatype:int" />
+	<infoitem key="UD_stu_relationshipSet" value="name:relation_id;datatype:int,name:s_id;datatype:int,name:relation_type;datatype:string,name:relation_fname;datatype:string,name:relation_lname;datatype:string,name:relation_occupation;datatype:string,name:relation_contact;datatype:string" />
+	<infoitem key="UD_ed_bgSet" value="name:bg_id;datatype:int,name:bg_durationS;datatype:date,name:bg_durationE;datatype:date,name:bg_major;datatype:string,name:bg_institute_name;datatype:string,name:bg_degree;datatype:int,name:bg_gpax;datatype:int,name:student_info_s_id;datatype:int" />
+	<infoitem key="UD_appSet" value="name:application_id;datatype:int,name:s_id;datatype:int,name:application_name;datatype:string,name:application_dateS;datatype:date,name:application_dateE;datatype:date" />
+	<infoitem key="UD_videoSet" value="name:video_id;datatype:int,name:video_name;datatype:string,name:video_file;datatype:string,name:application_id;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:resume_id;datatype:int,name:resume_name;datatype:string,name:application_id;datatype:int" />
+	<infoitem key="UD_transcriptSet" value="name:transcript_id;datatype:int,name:transcript_name;datatype:string,name:transcript_file;datatype:string,name:application_id;datatype:int" />
+	<infoitem key="UD_visaSet" value="name:visa_id;datatype:int,name:visa_name;datatype:string,name:visa_file;datatype:string,name:application_application_id;datatype:int" />
+	<infoitem key="UD_other_docSet" value="name:idother_id;datatype:int,name:other_name;datatype:string,name:other_file;datatype:string,name:application_application_id;datatype:int" />
+</info>

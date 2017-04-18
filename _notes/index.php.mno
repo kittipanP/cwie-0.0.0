@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Contries" value="name:countryID;datatype:int,name:countryName;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_collageSet" value="name:collage_id;datatype:int,name:collage_name;datatype:string,name:country_id;datatype:int,name:idintitute_type_id;datatype:int" />
+	<infoitem key="UD_universitySet" value="name:uni_id;datatype:int,name:uni_name;datatype:string,name:country_id;datatype:int,name:intitute_id;datatype:int" />
+	<infoitem key="UD_instituteSet" value="name:intitute_id;datatype:int,name:intitute_name;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_titleaaa" value="name:title_id;datatype:int,name:title_name;datatype:string,name:sex;datatype:string" />
+</info>
